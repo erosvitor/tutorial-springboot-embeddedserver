@@ -73,7 +73,7 @@ http://localhost:8080
 ...
 ```
 
-Testando a aplicação
+- Testando a aplicação
 ```
 http://localhost:8080
 ```
